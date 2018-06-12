@@ -20,7 +20,7 @@
     "email": "chipka01@email.franklin.edu"
   },
   "dependencies": {
-    "libxmljs-dom": "~0.0.11",
+    "libxmljs-dom": "https://github.com/retitle/libxmljs-dom/archive/glide-1.tar.gz",
     "needle": "^1.6.0"
   },
   "devDependencies": {
